@@ -1,4 +1,4 @@
-![logo](https://github.com/gkr-gaurav-roy/gkr-gaurav-roy/blob/main/shutterstock_1038395047-1024x576-Photoroom%20(3).png)
+![logo](https://github.com/gkr-gaurav-roy/gkr-gaurav-roy/blob/main/Screenshot%202025-05-30%20183057.png)
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar Ray</h1>
 <h3 align="center">Passionate about web development, AI, and smart systems, skilled in machine learning-driven automation and software development from India.</h3>

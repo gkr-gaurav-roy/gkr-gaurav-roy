@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar Ray</h1>
 <h3 align="center">Passionate about web development, AI, and smart systems, skilled in machine learning-driven automation and software development from India.</h3>
 
-<img align="right"alt="coding"width="400"src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
+<img align="right" alt="coding" width="400" src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkr-gaurav-roy&label=Profile%20views&color=0e75b6&style=flat" alt="gkr-gaurav-roy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkr-gaurav-roy" alt="gkr-gaurav-roy" /></a> </p>
 
 - 🔭 I’m currently working on **Bluestock websites**
 
